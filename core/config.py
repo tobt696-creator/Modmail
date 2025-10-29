@@ -62,7 +62,7 @@ class ConfigManager:
         "thread_auto_close_silently": False,
         "thread_auto_close": isodate.Duration(),
         "thread_auto_close_response": "This thread has been closed automatically due to inactivity after {timeout}.",
-        "thread_creation_response": "Thank you for your Modmail! A member of the Luxe Box Support Team will review your Modmail and respond as soon as possible. We appreciate your patience",
+        "thread_creation_response": "Thank you for your Modmail! A member of the Support Team will review your Modmail and respond as soon as possible. We appreciate your patience",
         "thread_creation_footer": "Your message has been sent",
         "thread_contact_silently": False,
         "thread_self_closable_creation_footer": "Click the lock to close the thread",
